@@ -1,0 +1,6 @@
+bin/*
+cache/*
+gm_modules/*
+output/*
+yyp/out/*
+yyp/tmp/*
