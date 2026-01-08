@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"UIImage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UIImage",
+  "parent":{
+    "name":"item",
+    "path":"folders/io.alkapivo.core/src/service/ui/item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

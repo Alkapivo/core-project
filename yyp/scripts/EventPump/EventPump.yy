@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"EventPump",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EventPump",
+  "parent":{
+    "name":"event",
+    "path":"folders/io.alkapivo.core/src/util/event.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

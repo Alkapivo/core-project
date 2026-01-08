@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DisplayService",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DisplayService",
+  "parent":{
+    "name":"display",
+    "path":"folders/io.alkapivo.core/src/service/display.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

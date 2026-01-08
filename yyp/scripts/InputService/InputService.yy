@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputService",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputService",
+  "parent":{
+    "name":"input",
+    "path":"folders/io.alkapivo.core/src/service/input.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

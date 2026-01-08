@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Struct",
+  "parent":{
+    "name":"type",
+    "path":"folders/io.alkapivo.core/src/lang/type.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

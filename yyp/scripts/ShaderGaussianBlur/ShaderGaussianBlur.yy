@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ShaderGaussianBlur",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ShaderGaussianBlur",
+  "parent":{
+    "name":"shader_gaussian_blur",
+    "path":"folders/io.alkapivo.core/resource/shader/screen/shader_gaussian_blur.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

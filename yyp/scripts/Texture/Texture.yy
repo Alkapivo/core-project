@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Texture",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Texture",
+  "parent":{
+    "name":"texture",
+    "path":"folders/io.alkapivo.core/src/service/texture.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

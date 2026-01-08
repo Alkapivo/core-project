@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"StoreItem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StoreItem",
+  "parent":{
+    "name":"store",
+    "path":"folders/io.alkapivo.core/src/util/store.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

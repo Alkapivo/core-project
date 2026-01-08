@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"JSON",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JSON",
+  "parent":{
+    "name":"util",
+    "path":"folders/io.alkapivo.core/src/util.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

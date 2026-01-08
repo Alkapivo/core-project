@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Video",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Video",
+  "parent":{
+    "name":"video",
+    "path":"folders/io.alkapivo.core/src/service/video.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

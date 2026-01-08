@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TexturedLine",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TexturedLine",
+  "parent":{
+    "name":"renderer",
+    "path":"folders/io.alkapivo.core/src/renderer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

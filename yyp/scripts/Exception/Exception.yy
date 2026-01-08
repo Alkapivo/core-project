@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Exception",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Exception",
+  "parent":{
+    "name":"lang",
+    "path":"folders/io.alkapivo.core/src/lang.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

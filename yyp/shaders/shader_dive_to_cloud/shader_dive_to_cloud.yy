@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shader_dive_to_cloud",
+  "name":"shader_dive_to_cloud",
+  "parent":{
+    "name":"shadertoy",
+    "path":"folders/io.alkapivo.core/resource/shader/ext/shadertoy.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

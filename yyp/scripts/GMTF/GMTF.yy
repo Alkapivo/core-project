@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GMTF",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GMTF",
+  "parent":{
+    "name":"src",
+    "path":"folders/io.mk-cz.gmtf/src.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

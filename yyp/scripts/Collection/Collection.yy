@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Collection",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Collection",
+  "parent":{
+    "name":"collection",
+    "path":"folders/io.alkapivo.core/src/collection.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

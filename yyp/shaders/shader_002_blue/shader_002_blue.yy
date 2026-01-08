@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shader_002_blue",
+  "name":"shader_002_blue",
+  "parent":{
+    "name":"shadertoy",
+    "path":"folders/io.alkapivo.core/resource/shader/ext/shadertoy.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

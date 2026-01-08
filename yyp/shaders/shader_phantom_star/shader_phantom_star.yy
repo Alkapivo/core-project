@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shader_phantom_star",
+  "name":"shader_phantom_star",
+  "parent":{
+    "name":"shadertoy",
+    "path":"folders/io.alkapivo.core/resource/shader/ext/shadertoy.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

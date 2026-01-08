@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GMObject",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GMObject",
+  "parent":{
+    "name":"lang",
+    "path":"folders/io.alkapivo.core/src/lang.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ShaderPipeline",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ShaderPipeline",
+  "parent":{
+    "name":"shader",
+    "path":"folders/io.alkapivo.core/src/renderer/shader.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

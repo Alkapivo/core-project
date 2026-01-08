@@ -1,0 +1,26 @@
+{
+  "name": "core-project",
+  "version": "26.01.04",
+  "description": "GameMaker Studio 2 framework",
+  "main": "yyp",
+  "author": "Alkapivo",
+  "license": "ISC",
+  "scripts": {
+    "setup": "./setup.sh",
+    "setup-clean": "./setup.sh --clean"
+  },
+  "dependencies": {
+    "core": {
+      "remote": "https://github.com/Alkapivo/core-gml.git",
+      "revision": "26.01.04"
+    },
+    "gmtf": {
+      "remote": "https://github.com/Alkapivo/mh-cz.gmtf-gml.git",
+      "revision": "25.11.29"
+    },
+    "bktGlitch": {
+      "remote": "https://github.com/Alkapivo/fyi.odditica.bktGlitch-gml.git",
+      "revision": "25.12.14"
+    }
+  }
+}

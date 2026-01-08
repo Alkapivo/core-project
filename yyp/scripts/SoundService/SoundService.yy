@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SoundService",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SoundService",
+  "parent":{
+    "name":"sound",
+    "path":"folders/io.alkapivo.core/src/service/sound.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

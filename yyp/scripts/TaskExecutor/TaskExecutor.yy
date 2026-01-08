@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TaskExecutor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TaskExecutor",
+  "parent":{
+    "name":"task",
+    "path":"folders/io.alkapivo.core/src/util/task.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

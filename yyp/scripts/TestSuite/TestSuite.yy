@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TestSuite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TestSuite",
+  "parent":{
+    "name":"io.alkapivo.core",
+    "path":"folders/io.alkapivo.core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

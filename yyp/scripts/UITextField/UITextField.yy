@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"UITextField",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UITextField",
+  "parent":{
+    "name":"item",
+    "path":"folders/io.alkapivo.core/src/service/ui/item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

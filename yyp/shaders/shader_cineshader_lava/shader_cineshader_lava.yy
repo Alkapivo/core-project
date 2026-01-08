@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shader_cineshader_lava",
+  "name":"shader_cineshader_lava",
+  "parent":{
+    "name":"shadertoy",
+    "path":"folders/io.alkapivo.core/resource/shader/ext/shadertoy.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

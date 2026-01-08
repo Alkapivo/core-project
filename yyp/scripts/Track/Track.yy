@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Track",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Track",
+  "parent":{
+    "name":"track",
+    "path":"folders/io.alkapivo.core/src/service/track.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shader_funk_flux",
+  "name":"shader_funk_flux",
+  "parent":{
+    "name":"shader_funk_flux",
+    "path":"folders/io.alkapivo.core/resource/shader/screen/shader_funk_flux.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FileService",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FileService",
+  "parent":{
+    "name":"file",
+    "path":"folders/io.alkapivo.core/src/service/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BKTGlitchService",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BKTGlitchService",
+  "parent":{
+    "name":"src",
+    "path":"folders/com.janvorisek.bktglitch/src.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

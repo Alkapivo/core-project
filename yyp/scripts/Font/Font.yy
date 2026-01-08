@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Font",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Font",
+  "parent":{
+    "name":"font",
+    "path":"folders/io.alkapivo.core/src/service/font.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

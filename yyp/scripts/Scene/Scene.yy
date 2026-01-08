@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scene",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Scene",
+  "parent":{
+    "name":"util",
+    "path":"folders/io.alkapivo.core/src/util.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
